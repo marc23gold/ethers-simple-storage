@@ -4,6 +4,8 @@
     "ethers": "^5.7.1",
     "ganache": "^7.4.3",
     "ganache-cli": "^6.12.2",
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.24",
     "solc": "0.8.7-fixed"
   },
   "scripts": {
